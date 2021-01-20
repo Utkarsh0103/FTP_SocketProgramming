@@ -1,0 +1,1 @@
+File transfer is the process of copying or moving a file from a computer to another over a network or Internet connection.
